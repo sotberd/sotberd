@@ -1,5 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sotirios N. Berdes
-
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sotiris
 
 I’m a Software Engineer with extensive experience in building end-to-end applications, from development through to production. My expertise lies in JavaScript and Python, where I focus on crafting efficient, scalable solutions and integrating robust DevOps practices—including containerization with Docker, orchestration with Kubernetes, and CI/CD automation using tools like GitHub Actions and ArgoCD.
 
